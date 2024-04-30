@@ -3,6 +3,8 @@
 
 Meu nome é Agnes
 
+-Sou professora de Matemática e itinerários formativos na área de exatas
+
 -Estou concluindo todos os cursos do Alura
 
 -Uso a linguagem Java
